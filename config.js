@@ -86,8 +86,8 @@ const CONFIG = {
     },
     {
       type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      text: "May Allah fill your life with happiness, peace, good health, and endless barakah. May every dua you make be accepted, every hardship become easy, and your smile never fade. On your birthday, I pray that Allah protects you from all sadness and grants you success in this life and the Hereafter. Ameen. Happy Birthday 🤍",
+      author: "ME",
     },
     {
       type: "stars",
