@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "UMARA",
+  name: "Majeed",
   photo: "./img/irene.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi",
-      subtitle: "It's your day today, you are 22 now, may god bless you",
+      subtitle: "It's your day today, you are almost doctor now, may god bless you",
     },
     {
       type: "countdown",
