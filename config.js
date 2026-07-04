@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Majeed",
+  name: "Dr Shaima",
   photo: "./img/irene.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi",
-      subtitle: "It's your day today, you are almost doctor now, may god bless you",
+      subtitle: "It's your birthday today, you are getting old now, and a dr this year, may god bless you",
     },
     {
       type: "countdown",
@@ -70,7 +70,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy birthday to you!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
       buttonText: "Send",
     },
     {
@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "You are most beautiful girl, I have ever seen! (HBD)",
+      wishText: "You are my best friend. Thank you for making my life easy and being there always. I hope to get a piece of cake soon, (HBD)",
     },
     {
       type: "fireworks",
